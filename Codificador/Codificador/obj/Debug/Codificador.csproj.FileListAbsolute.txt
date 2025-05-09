@@ -1,0 +1,7 @@
+C:\Users\Hp\OneDrive - Universidad Privada Domingo Savio\Sistemadigitaldos\Codificador\Codificador\bin\Debug\Codificador.exe.config
+C:\Users\Hp\OneDrive - Universidad Privada Domingo Savio\Sistemadigitaldos\Codificador\Codificador\bin\Debug\Codificador.exe
+C:\Users\Hp\OneDrive - Universidad Privada Domingo Savio\Sistemadigitaldos\Codificador\Codificador\bin\Debug\Codificador.pdb
+C:\Users\Hp\OneDrive - Universidad Privada Domingo Savio\Sistemadigitaldos\Codificador\Codificador\obj\Debug\Codificador.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive - Universidad Privada Domingo Savio\Sistemadigitaldos\Codificador\Codificador\obj\Debug\Codificador.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive - Universidad Privada Domingo Savio\Sistemadigitaldos\Codificador\Codificador\obj\Debug\Codificador.exe
+C:\Users\Hp\OneDrive - Universidad Privada Domingo Savio\Sistemadigitaldos\Codificador\Codificador\obj\Debug\Codificador.pdb
